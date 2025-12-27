@@ -10,3 +10,23 @@ class BooleanExample{
         }
     }
 }
+
+/*public class booleanExample {
+    public static void main(String[] args) {
+        boolean islifehappy = true;
+        boolean islifebad = false;
+        System.out.println(islifehappy);
+        System.out.println(islifebad);
+        boolean isRaining = false;
+        if (isRaining) {
+            System.out.println("Take Umbrella");
+        } else {
+            System.out.println("Enjoy this Sunshine");
+        }
+
+        int a = 20;
+        int b = 30;
+        boolean result = a > b;
+        System.out.println("Is a is grater than b ?" + result);
+    }
+}*/
